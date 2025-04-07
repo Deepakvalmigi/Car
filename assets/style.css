@@ -1,0 +1,52 @@
+body{
+    background-image: url(./images/ban2.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    margin: 0px;
+    }
+form{
+    background:transparent;
+    backdrop-filter: blur(10px);
+   border-radius: 50px;
+    border: 1px solid grey;
+    filter: drop-shadow(0 0 10px grey);
+    display: grid;
+    justify-content: center;
+    height: 300px;
+    width: 300px;
+    opacity: 0.6;
+}
+#btn{
+    color: black;
+    text-align: center;
+    justify-content: center;
+    
+}
+h1{
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+}
+
+button{
+    background-color: aqua;
+    border-radius: 50px;
+}
+input{
+    border: 1px solid black;
+    float: right;
+}
+.container label  b {
+padding-right: 30px;
+}
+.signup a{
+    display: flex;
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    font-weight: 600;
+    justify-content: center;
+}

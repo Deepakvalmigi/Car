@@ -135,7 +135,7 @@
       border: 2px solid #1e83b6;
       padding: 16px;
       margin-top: 20px;
-      width: 360px;
+      width: 340px;
       height: 600px;
       margin: 10px;
       box-shadow: 10px 10px 5px grey;
@@ -178,7 +178,7 @@
   .container-product {
       display: flex;
       flex-wrap: wrap;
-      justify-content: space-evenly;
+      justify-content: space-around;
       align-items: center;
       padding-top: 100px;
   }
